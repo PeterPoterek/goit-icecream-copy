@@ -1,0 +1,2 @@
+(()=>{const e=document.querySelectorAll("[data-modal-open]"),t=document.querySelectorAll("[data-modal-close]");e.forEach((e=>{e.addEventListener("click",(()=>{const t=e.getAttribute("data-modal-open"),d=document.querySelector(`[data-modal="${t}"]`);d&&d.classList.remove("is-hidden")}))})),t.forEach((e=>{e.addEventListener("click",(()=>{const t=e.getAttribute("data-modal-close"),d=document.querySelector(`[data-modal="${t}"]`);d&&d.classList.add("is-hidden")}))}))})();
+//# sourceMappingURL=index.3e231992.js.map
