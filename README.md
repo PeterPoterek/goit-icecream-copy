@@ -1,6 +1,7 @@
 # parcel-project-template
 
 <!-- zmiana testowa -->
+<!--  -->
 
 ## Zalezności
 
